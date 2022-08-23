@@ -2,8 +2,9 @@ import { makeStyles } from "@material-ui/core";
 
 export default makeStyles({
   teamContainer: {
-    marginLeft: "25rem",
-    marginRight: "25rem",
+    marginLeft: "20rem",
+    marginRight: "20rem",
+    width: "100%",
   },
   teamWrapper: {
     // width: "1440px",
@@ -16,7 +17,7 @@ export default makeStyles({
     fontFamily: "'Inder'",
     fontStyle: "normal",
     fontWeight: 400,
-    fontSize: "31.34px",
+    fontSize: "28px",
     lineHeight: "118.4%",
     textAlign: "center",
   },

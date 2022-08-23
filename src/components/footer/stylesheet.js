@@ -6,7 +6,7 @@ export default makeStyles({
     WebkitTransition: "all .7s cubic-bezier(0.6, 0.04, 0.98, 0.335)",
   },
   SvgContainer: {
-    marginLeft: "8rem",
+    // marginLeft: "8rem",
   },
   heading: {
     fontFamily: "'IBM Plex Sans Thai Looped'",
